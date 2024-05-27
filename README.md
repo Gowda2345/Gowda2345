@@ -1,5 +1,6 @@
 # 💫 About Me:
 I'm an MCA Post-Graduate fresher trained in Java Full Stack Web development looking for an opportunity in the Tech Industry.
+Check Out my resume here - 
 
 
 ## 🌐 Socials:
